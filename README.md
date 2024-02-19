@@ -8,7 +8,7 @@ The project consists of  NIST controls and their explanation. This project is a 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Utilities Used</h2>
 
 - <b> NIST framework</b> 
 - <b>NIST 800-53 controls spreadsheets </b>
